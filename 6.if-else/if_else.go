@@ -30,3 +30,10 @@ func main() {
 		fmt.Println(num, "has multiple digits")
 	}
 }
+
+// Output
+/*
+	7 is odd
+	8 is divisible by 4
+	9 has 1 digit
+*/

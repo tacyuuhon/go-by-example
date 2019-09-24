@@ -55,3 +55,14 @@ func main() {
 	whatAmI(1)
 	whatAmI("hey")
 }
+
+// Output
+/*
+	write 2 as
+	two
+	It's a weekday
+	It's after nonn
+	I'm a bool
+	I'm a int
+	Don't know type string
+*/

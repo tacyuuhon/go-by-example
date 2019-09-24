@@ -25,5 +25,13 @@ func main() {
 	// := 语法是声明并初始化变量的简写，例如 这个例子中的 var f string = "short"。
 	f := "short"
 	fmt.Println(f)
-
 }
+
+// Output
+/*
+	initial
+	1 2
+	true
+	0
+	short
+*/
