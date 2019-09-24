@@ -5,7 +5,7 @@
 // 然后我们可以直接运行这个二进制文件。
 // 现在我们可以运行并编译基本的 Go 程序，让我们开始学习更多关于这门语言的知识吧。
 //
-// https://books.mlog.club/gobyexample/hello-world.html
+// https://gobyexample.com/hello-world
 package main
 
 import "fmt"

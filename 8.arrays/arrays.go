@@ -2,7 +2,7 @@
 // 注意，在使用 fmt.Println 来打印数组的时候，会使用 [v1 v2 v3 ...] 的格式显示。
 // 在 Go 程序中，相对于数组而言，切片(slice) 使用的更多。
 //
-// https://books.mlog.club/gobyexample/arrays.html
+// https://gobyexample.com/arrays
 package main
 
 import "fmt"

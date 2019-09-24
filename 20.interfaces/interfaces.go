@@ -1,7 +1,7 @@
 // 接口(Interfaces) 是命名了的方法签名(signatures)的集合。
 // 要学习更多关于 Go 的接口的知识，看看这篇[很棒的博文](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)。
 //
-// https://books.mlog.club/gobyexample/interfaces.html
+// https://gobyexample.com/interfaces
 package main
 
 import (

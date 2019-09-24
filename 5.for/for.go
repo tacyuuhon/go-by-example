@@ -1,7 +1,7 @@
 // for 是 Go 中唯一的循环结构。这里有 for 循环的三个基本使用方式。
 // 后续教程中当我们学习 range 语句，channels，以及其他数据结构时，将会看到一些 for 的其它形式。
 //
-// https://books.mlog.club/gobyexample/for.html
+// https://gobyexample.com/for
 package main
 
 import "fmt"

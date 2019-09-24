@@ -3,7 +3,7 @@
 // 我们将通过两个函数：zeroval 和 zeroptr 来比较指针和值类型的不同。
 // zeroval 在 main 函数中不能改变 i 的值，但是 zeroptr 可以，因为它有这个变量的内存地址的引用。
 //
-// https://books.mlog.club/gobyexample/pointers.html
+// https://gobyexample.com/pointers
 package main
 
 import "fmt"

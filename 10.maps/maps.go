@@ -2,7 +2,7 @@
 //（ 在一些其他的语言中称为哈希(hash) 或者字典(dict) ）。
 // 注意一个 map 在使用 fmt.Println 打印的时候，是以 map[k:v k:v] 的格式输出的。
 //
-// https://books.mlog.club/gobyexample/maps.html
+// https://gobyexample.com/maps
 package main
 
 import "fmt"

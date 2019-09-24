@@ -1,6 +1,6 @@
 // Go 的结构体(struct) 是带类型的字段(fields)集合。 这在组织数据时非常有用。
 //
-//https://books.mlog.club/gobyexample/structs.html
+// https://gobyexample.com/structs
 package main
 
 import "fmt"

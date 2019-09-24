@@ -2,7 +2,7 @@
 // 注意，在 Go 中条件语句不需要圆括号，但是需要加上花括号。
 // Go 里没有三目运算符， 所以即使你只需要基本的条件判断，你仍需要使用完整的 if 语句
 //
-// https://books.mlog.club/gobyexample/if-else.html
+// https://gobyexample.com/if-else
 package main
 
 import "fmt"

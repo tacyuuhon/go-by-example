@@ -1,6 +1,6 @@
 // range 迭代各种各样的数据结构。让我们来看看如何在我们 已经学过的数据结构上使用 range。
 //
-// https://books.mlog.club/gobyexample/range.html
+// https://gobyexample.com/range
 package main
 
 import "fmt"

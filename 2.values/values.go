@@ -1,6 +1,6 @@
 // Go 拥有多种值类型，包括字符串，整型，浮点型，布尔型等。下面是一些基本的例子。
 //
-// https://books.mlog.club/gobyexample/values.html
+// https://gobyexample.com/values
 package main
 
 import "fmt"

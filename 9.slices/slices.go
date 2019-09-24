@@ -2,7 +2,7 @@
 // 注意，slice 和数组是不同的类型，但是它们通过 fmt.Println 打印结果类似。
 // 看看这个由 Go 团队撰写的一篇很棒的博文， 了解更多关于 Go 中 [slice的设计和实现细节](https://blog.golang.org/go-slices-usage-and-internals)。
 //
-// https://books.mlog.club/gobyexample/slices.html
+// https://gobyexample.com/slices
 package main
 
 import "fmt"

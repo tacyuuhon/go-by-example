@@ -1,7 +1,7 @@
 // Go 内建_多返回值_支持。这个特性在 Go 语言中经常被用到， 例如用来同时返回一个函数的结果和错误信息。
 // 允许可变长参数是 Go 函数另一个很好的特性；我们将在接下来 进行学习。
 //
-// https://books.mlog.club/gobyexample/multiple-return-values.html
+// https://gobyexample.com/multiple-return-values
 package main
 
 import "fmt"

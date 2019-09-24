@@ -1,6 +1,6 @@
 // 在 Go 中，变量被显式声明，并可以被编译器用来检查函数调用时的类型正确性。
 //
-// https://books.mlog.club/gobyexample/variables.html
+// https://gobyexample.com/variables
 package main
 
 import "fmt"

@@ -1,7 +1,7 @@
 // 函数是 Go 的中心。我们将通过一些不同的例子来进行学习。
 // Go 函数有很多其他的特性。其中一个就是多值返回，也是我们接下来需要接触的。
 //
-// https://books.mlog.club/gobyexample/functions.html
+// https://gobyexample.com/functions
 package main
 
 import "fmt"

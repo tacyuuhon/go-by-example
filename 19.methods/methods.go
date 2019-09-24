@@ -1,7 +1,7 @@
 // Go 支持在结构体类型中定义方法(methods) 。
 // 接下来我们将介绍Go用于分组和命名相关方法集合的另一机制：接口。
 //
-//https://books.mlog.club/gobyexample/methods.html
+// https://gobyexample.com/methods
 package main
 
 import "fmt"

@@ -1,6 +1,6 @@
 // Go 支持字符、字符串、布尔和数值常量 。
 //
-// https://books.mlog.club/gobyexample/constants.html
+// https://gobyexample.com/constants
 package main
 
 import (

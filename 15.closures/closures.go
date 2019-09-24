@@ -3,7 +3,7 @@
 // 匿名函数在你想定义一个不需要命名的内联函数时是很实用的。
 // 我们马上要学习关于函数的最后一个特性：递归。
 //
-// https://books.mlog.club/gobyexample/closures.html
+// https://gobyexample.com/closures
 package main
 
 import "fmt"

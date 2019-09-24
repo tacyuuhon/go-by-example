@@ -5,7 +5,7 @@
 //
 // 接下来我们将学习在并发的 Go 程序中的 Go 协程的辅助 特性：通道(channels)。
 //
-// https://books.mlog.club/gobyexample/goroutines.html
+// https://gobyexample.com/goroutines
 package main
 
 import "fmt"

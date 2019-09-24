@@ -3,7 +3,7 @@
 // Go 语言的处理方式能清楚的知道哪个函数返回了错误，并能像调用那些没有出错的函数一样调用。
 // 到 Go 官方博客去看这篇[很棒的文章](https://blog.golang.org/error-handling-and-go) 获取更多关于错误处理的信息。
 //
-// https://books.mlog.club/gobyexample/errors.html
+// https://gobyexample.com/errors
 package main
 
 import (

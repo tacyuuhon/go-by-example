@@ -1,6 +1,6 @@
 // switch 是多分支情况时快捷的条件语句。
 //
-// https://books.mlog.club/gobyexample/switch.html
+// https://gobyexample.com/switch
 package main
 
 import (
