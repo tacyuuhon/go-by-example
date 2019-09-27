@@ -2,7 +2,7 @@
 // 执行这个程序，显示 9 个任务被多个 worker 执行。
 // 整个程序处理所有的任务仅执行了 3s 而不是 9s，是因为 3 个 worker 是并行的。
 //
-// // https://gobyexample.com/worker-pools
+// https://gobyexample.com/worker-pools
 package main
 
 import (
