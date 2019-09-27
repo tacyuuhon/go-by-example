@@ -2,6 +2,7 @@
 // 我们也可以使用这个语法来遍历从通道中取得的值。
 // 这个例子也让我们看到，一个非空的通道也是可以关闭的， 但是通道中剩下的值仍然可以被接收到。
 //
+// https://gobyexample.com/range-over-channels
 package main
 
 import "fmt"
