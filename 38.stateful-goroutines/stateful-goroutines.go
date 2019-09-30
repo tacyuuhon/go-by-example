@@ -26,7 +26,7 @@ type readOp struct {
 }
 
 type writeOp struct {
-	key  int 
+	key  int
 	val  int
 	resp chan bool
 }
