@@ -1,6 +1,7 @@
 // Go 提供内建的 [base64 编解码](https://zh.wikipedia.org/wiki/Base64)支持。
 // 标准 base64 编码和 URL 兼容 base64 编码的编码字符串存在 稍许不同（后缀为 + 和 -），但是两者都可以正确解码为 原始字符串。
 //
+// https://gobyexample.com/base64-encoding
 package main
 
 import (
