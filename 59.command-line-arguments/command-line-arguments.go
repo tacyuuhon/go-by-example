@@ -26,3 +26,12 @@ func main() {
 	fmt.Println("argsWithoutProg:", argsWithoutProg)
 	fmt.Println("arg:", arg)
 }
+
+// Output
+// go build command-line-arguments.go
+// ./command-line-arguments a b c d
+/*
+	argsWithProg: [./command-line-arguments a b c d]
+	argsWithoutProg: [a b c d]
+	arg: c
+*/
