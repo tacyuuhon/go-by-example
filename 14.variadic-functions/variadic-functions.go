@@ -1,6 +1,7 @@
-// [可变参数函数](https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AE%8A%E5%8F%83%E6%95%B8%E5%87%BD%E6%95%B8)。
-// 在调用时可以用任意数量的参数。 例如，fmt.Println 是一个常见的变参函数。
+// [可变参数函数]。在调用时可以用任意数量的参数。 例如，fmt.Println 是一个常见的变参函数。
 // Go 函数的另一个关键的方面是闭包结构，这是接下来我们需要看看的。
+//
+// [可变参数函数](https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AE%8A%E5%8F%83%E6%95%B8%E5%87%BD%E6%95%B8)
 //
 // https://gobyexample.com/variadic-functions
 package main

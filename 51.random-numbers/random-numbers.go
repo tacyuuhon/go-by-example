@@ -1,5 +1,8 @@
-// Go 的 math/rand 包提供了[伪随机数生成器（英）](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)。
-// 参阅 [math/rand 包](https://golang.org/pkg/math/rand/) 文档，提供了 Go 可以提供的其他随量的参考信息。
+// Go 的 math/rand 包提供了[伪随机数生成器（英）]。
+// 参阅 [math/rand 包] 文档，提供了 Go 可以提供的其他随量的参考信息。
+//
+// [伪随机数生成器（英）](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)
+// [math/rand 包](https://golang.org/pkg/math/rand/)
 //
 // https://gobyexample.com/random-numbers
 package main

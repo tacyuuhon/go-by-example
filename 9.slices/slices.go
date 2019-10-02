@@ -1,6 +1,8 @@
 // Slice 是 Go 中一个关键的数据类型，是一个比数组更加强大的序列接口
 // 注意，slice 和数组是不同的类型，但是它们通过 fmt.Println 打印结果类似。
-// 看看这个由 Go 团队撰写的一篇很棒的博文， 了解更多关于 Go 中 [slice的设计和实现细节](https://blog.golang.org/go-slices-usage-and-internals)。
+// 看看这个由 Go 团队撰写的一篇很棒的博文， 了解更多关于 Go 中 [slice的设计和实现细节]。
+//
+// [slice的设计和实现细节](https://blog.golang.org/go-slices-usage-and-internals)
 //
 // https://gobyexample.com/slices
 package main

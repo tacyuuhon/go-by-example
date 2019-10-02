@@ -1,6 +1,9 @@
 // Go 提供内置的 JSON 编解码支持，包括内置或者自定义类型与 JSON 数据之间的转化。
-// 这里我们已经覆盖了基本的 Go JSON 知识，但是查阅 [JSON 和 Go](https://blog.golang.org/json-and-go) 博文
-// 和 [JSON 包文档](https://golang.org/pkg/encoding/json/) 来获取更多的信息。
+// 这里我们已经覆盖了基本的 Go JSON 知识，但是查阅 [JSON 和 Go]博文
+// 和 [JSON 包文档]来获取更多的信息。
+//
+// [JSON 和 Go](https://blog.golang.org/json-and-go)
+// [JSON 包文档](https://golang.org/pkg/encoding/json/)
 //
 // https://gobyexample.com/json
 package main

@@ -1,5 +1,7 @@
-// [命令行标志](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_option) 是命令行程序指定选项的常用方式。
+// [命令行标志]是命令行程序指定选项的常用方式。
 // 例如，在 wc -l 中， 这个 -l 就是一个命令行标志。
+//
+// 命令行标志](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_option)
 //
 // https://gobyexample.com/command-line-flags
 package main

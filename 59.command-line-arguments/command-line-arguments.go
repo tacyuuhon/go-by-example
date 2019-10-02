@@ -1,8 +1,10 @@
-// [命令行参数](https://en.wikipedia.org/wiki/Command-line_interface#Arguments) 是指定程序运行参数的一个常见方式。
+// [命令行参数]是指定程序运行参数的一个常见方式。
 // 例如，go run hello.go， 程序 go 使用了 run 和 hello.go 两个参数。
 // 要实验命令行参数，最好先使用 go build 编译一个可执行 二进制文件
 // $ go build command-line-arguments.go
 // $ ./command-line-arguments a b c d
+//
+// [命令行参数](https://en.wikipedia.org/wiki/Command-line_interface#Arguments)
 //
 // https://gobyexample.com/command-line-arguments
 package main

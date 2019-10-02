@@ -1,6 +1,7 @@
-// 一般程序会有获取 [Unix 时间](https://zh.wikipedia.org/wiki/UNIX%E6%97%B6%E9%97%B4)的秒数，毫秒数，或者微秒数的需要。
+// 一般程序会有获取 [Unix 时间]的秒数，毫秒数，或者微秒数的需要。
 // 来看看如何用 Go 来实现。
 //
+// [Unix 时间](https://zh.wikipedia.org/wiki/UNIX%E6%97%B6%E9%97%B4)
 // https://gobyexample.com/epoch
 package main
 

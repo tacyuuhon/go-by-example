@@ -1,5 +1,6 @@
-// Go 支持[递归](https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))。
-// 这里是一个经典的阶乘示例。
+// Go 支持[递归]。这里是一个经典的阶乘示例。
+//
+// [递归](https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
 //
 // https://gobyexample.com/recursion
 package main

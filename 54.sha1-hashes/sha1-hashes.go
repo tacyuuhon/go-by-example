@@ -2,7 +2,9 @@
 // 例如，git 版本控制系统大量的使用 SHA1 来标识受版本控制的文件和目录。
 // 这里是 Go 中如何进行 SHA1 散列计算的例子。
 // Go 在多个 crypto/* 包中实现了一系列散列函数。
-// 如果你需要密码学上的安全散列，你需要小心的研究一下[哈希强度](https://en.wikipedia.org/wiki/Cryptographic_hash_function)。
+// 如果你需要密码学上的安全散列，你需要小心的研究一下[哈希强度]。
+//
+// [哈希强度](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 //
 // https://gobyexample.com/sha1-hashes
 package main

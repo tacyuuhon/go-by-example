@@ -1,7 +1,8 @@
-// Go 支持[指针](https://zh.wikipedia.org/wiki/%E6%8C%87%E6%A8%99_(%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8))，
-// 允许在程序中通过引用传递值或者数据结构。
+// Go 支持[指针]，允许在程序中通过引用传递值或者数据结构。
 // 我们将通过两个函数：zeroval 和 zeroptr 来比较指针和值类型的不同。
 // zeroval 在 main 函数中不能改变 i 的值，但是 zeroptr 可以，因为它有这个变量的内存地址的引用。
+//
+//[指针](https://zh.wikipedia.org/wiki/%E6%8C%87%E6%A8%99_(%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8))
 //
 // https://gobyexample.com/pointers
 package main

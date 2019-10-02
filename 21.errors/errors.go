@@ -1,7 +1,9 @@
 // 符合 Go 语言习惯的做法是使用一个独立、明确的返回值来传递错误信息。
 // 这与使用异常(exception)的 Java 和 Ruby 以及在 C 语言中有时用到的重载(overloaded)的单返回/错误值有着明显的不同。
 // Go 语言的处理方式能清楚的知道哪个函数返回了错误，并能像调用那些没有出错的函数一样调用。
-// 到 Go 官方博客去看这篇[很棒的文章](https://blog.golang.org/error-handling-and-go) 获取更多关于错误处理的信息。
+// 到 Go 官方博客去看这篇[很棒的文章]获取更多关于错误处理的信息。
+//
+// [很棒的文章](https://blog.golang.org/error-handling-and-go)
 //
 // https://gobyexample.com/errors
 package main

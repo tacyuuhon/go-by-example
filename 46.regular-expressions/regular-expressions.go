@@ -1,6 +1,9 @@
-// Go 提供内置的[正则表达式](https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)。
+// Go 提供内置的[正则表达式]。
 // 这里是 Go 中基本的正则相关功能的例子。
-// 完整的 Go 正则表达式参考，请查阅 [regexp](https://golang.org/pkg/regexp/) 包文档。
+// 完整的 Go 正则表达式参考，请查阅 [regexp]包文档。
+//
+// [正则表达式](https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+// [regexp](https://golang.org/pkg/regexp/)
 //
 // https://gobyexample.com/regular-expressions
 package main

@@ -1,6 +1,7 @@
-// map 是 Go 内置[关联数据类型](https://zh.wikipedia.org/wiki/%E5%85%B3%E8%81%94%E6%95%B0%E7%BB%84)
-//（ 在一些其他的语言中称为哈希(hash) 或者字典(dict) ）。
+// map 是 Go 内置[关联数据类型]（ 在一些其他的语言中称为哈希(hash) 或者字典(dict) ）。
 // 注意一个 map 在使用 fmt.Println 打印的时候，是以 map[k:v k:v] 的格式输出的。
+//
+// [关联数据类型](https://zh.wikipedia.org/wiki/%E5%85%B3%E8%81%94%E6%95%B0%E7%BB%84)
 //
 // https://gobyexample.com/maps
 package main

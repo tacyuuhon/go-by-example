@@ -1,7 +1,9 @@
-// Go 支持[匿名函数](https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E5%87%BD%E6%95%B0)，
-// 并能用其构造[闭包](https://zh.wikipedia.org/wiki/%E9%97%AD%E5%8C%85_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))。
+// Go 支持[匿名函数]，并能用其构造[闭包]。
 // 匿名函数在你想定义一个不需要命名的内联函数时是很实用的。
 // 我们马上要学习关于函数的最后一个特性：递归。
+//
+// [匿名函数](https://zh.wikipedia.org/wiki/%E5%8C%BF%E5%90%8D%E5%87%BD%E6%95%B0)
+// [闭包](https://zh.wikipedia.org/wiki/%E9%97%AD%E5%8C%85_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
 //
 // https://gobyexample.com/closures
 package main

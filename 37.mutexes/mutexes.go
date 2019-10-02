@@ -1,5 +1,7 @@
 // 在前面的例子中，我们看到了如何使用原子操作来管理简单的计数器。
-// 对于更加复杂的情况，我们可以使用一个[互斥锁](https://zh.wikipedia.org/wiki/%E4%BA%92%E6%96%A5%E9%94%81)来在 Go 协程间安全的访问数据。
+// 对于更加复杂的情况，我们可以使用一个[互斥锁]来在 Go 协程间安全的访问数据。
+//
+// [互斥锁](https://zh.wikipedia.org/wiki/%E4%BA%92%E6%96%A5%E9%94%81)
 //
 // https://gobyexample.com/mutexes
 package main
